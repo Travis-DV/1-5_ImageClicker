@@ -1,4 +1,4 @@
-﻿namespace _1_5imageclicker
+﻿namespace ImageClicker
 {
     partial class Form1
     {

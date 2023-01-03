@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5imageclicker", "1-5imageclicker\1-5imageclicker.csproj", "{9BDE694F-7E95-465F-AE0E-E0CB7593B1DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5_ImageClicker", "1-5imageclicker\1-5_ImageClicker.csproj", "{9BDE694F-7E95-465F-AE0E-E0CB7593B1DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
